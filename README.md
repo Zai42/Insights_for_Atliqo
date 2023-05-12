@@ -6,7 +6,7 @@ Atliqo’s business director requested their analytics team to provide a compari
 1. Python(Pandas) - Data Manipulation
 2. Power bi for visualization
 # Process I follow
-➜ Downloading Datasets from:  https://codebasics.io/event/codebasics-resume-project-challenge
-➜ Going through datasets using python (Pandas)
-➜ Creating new columns like total users in AtliQo company using python
-➜ Creating dashboard using PowerBi
+1.  Downloading Datasets from:  https://codebasics.io/event/codebasics-resume-project-challenge
+2.  Going through datasets using python (Pandas)
+3.  Creating new columns like total users in AtliQo company using python
+4.  Creating dashboard using PowerBi
